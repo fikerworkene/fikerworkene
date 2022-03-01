@@ -1,0 +1,61 @@
+.container-fluid {
+    height: 100%;
+    background-image: url("b.jpg");
+  }
+  
+  
+  .container {
+    color: rgb(15, 26, 14);
+    font-weight: 800;
+    height: 90vh;
+  }
+  .parweb{
+    color: black;
+    font-style:unset;
+  }
+  .first,
+  .third {
+    padding-top: 5%;
+  }
+  .contactme{
+    color: rgb(238, 88, 138);
+    padding-left: 400px;
+    margin-top: 60px;
+  }
+  .second {
+    background-color: rgb(61, 109, 136);
+    padding-top: 2%;
+  }
+  .first {
+    color: rgb(67, 78, 67);
+  }
+
+  h2 {
+    color: black;
+  }
+  h5 {
+    text-align: center;
+    font-weight: 900;
+    color: aqua;
+  }
+  .btn {
+    background-color: rgb(68, 68, 68);
+    color: rgb(231, 128, 128);
+  }
+  
+  .conInfo {
+    color: black;
+    text-align: center;
+    font-size: large;
+  }
+  .conInfo + div {
+    color: rgb(25, 100, 25);
+    text-align: center;
+  }
+ 
+  .fa,
+  .fas {
+    color: rgb(58, 87, 58);
+  }
+  
+  
