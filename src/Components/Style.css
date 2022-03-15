@@ -1,0 +1,66 @@
+.wrapper-container {
+    margin: 20px 240px 20px;
+    border: 3px solid black;
+    margin-top: 40px;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 20px 20px 40px;
+    border: 3px solid orange;
+    
+  }
+  .homepage,
+  .employeepage {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 650px;
+    margin: 5px;
+  }
+  .headerLeft,
+  .headerRight {
+    border: 3px solid blue;
+    margin: 5px 10px;
+    text-align: center;
+  }
+  .search {
+    border: 3px solid green;
+    width: 450px;
+    margin: 5px 10px;
+    
+  }
+  .employeeList {
+    display: flex;
+    margin: 5px 10px;
+    border: 3px solid red;
+  }
+  .img-container {
+    width: 60px;
+    height: 60px;
+    margin: 10px 10px;
+    
+  }
+  
+  .img-container img {
+    width: 100%;
+    border-radius: 50%;
+    
+  }
+  .nameList {
+    margin: 1px 40px;
+  }
+ 
+  .more-detail {
+    margin: 0px 10px;
+    width: 480px;
+    height: 400px;
+    border: 2px solid rgba(92, 12, 12, 0.884);
+    padding: 10px;
+  }
+  .callOffice,
+  .callMobile,
+  .sms,
+  .email {
+    padding-right: 300px;
+  }
